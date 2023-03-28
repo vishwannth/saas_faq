@@ -1,0 +1,6 @@
+.faq:hover{
+    box-shadow:5px 5px 5px 5px #FFB26B;
+    transition: box-shadow 0.7s;
+    transform: scale(1.05);
+    z-index: 3;
+}
